@@ -1,0 +1,2 @@
+F | X, D, Teta, E, I, ARR[M, 1, 11], ARR[DM, 1, 11], ARR[LC, 1, 11]
+G | Y, D, Teta, E, I, ARR[M, 1, 11], ARR[DM, 1, 11], ARR[LC, 1, 11]

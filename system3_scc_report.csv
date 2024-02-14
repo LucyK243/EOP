@@ -1,0 +1,6 @@
+SCC_ID, is_root, number_of_nodes, nodes
+0, False, 3, x3, x2, x1
+1, True, 2, x5, x4
+2, True, 1, x6
+3, False, 2, x10, x11
+4, True, 3, x9, x8, x7
